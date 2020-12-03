@@ -1,0 +1,10 @@
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\bin\Release\DrawSomethingServer.exe.config
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\bin\Release\DrawSomethingServer.exe
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\bin\Release\DrawSomethingServer.pdb
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\obj\Release\DrawSomethingServer.csprojAssemblyReference.cache
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\obj\Release\DrawSomethingServer.Server.resources
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\obj\Release\DrawSomethingServer.Properties.Resources.resources
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\obj\Release\DrawSomethingServer.csproj.GenerateResource.cache
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\obj\Release\DrawSomethingServer.csproj.CoreCompileInputs.cache
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\obj\Release\DrawSomethingServer.exe
+D:\Work\CSProject\DrawSomethingServer\DrawSomethingServer\obj\Release\DrawSomethingServer.pdb

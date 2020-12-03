@@ -1,0 +1,10 @@
+D:\Work\CSProject\DrawSomething\DrawSomething\bin\Release\DrawSomething.exe.config
+D:\Work\CSProject\DrawSomething\DrawSomething\bin\Release\DrawSomething.exe
+D:\Work\CSProject\DrawSomething\DrawSomething\bin\Release\DrawSomething.pdb
+D:\Work\CSProject\DrawSomething\DrawSomething\obj\Release\DrawSomething.Form1.resources
+D:\Work\CSProject\DrawSomething\DrawSomething\obj\Release\DrawSomething.Properties.Resources.resources
+D:\Work\CSProject\DrawSomething\DrawSomething\obj\Release\DrawSomething.csproj.GenerateResource.cache
+D:\Work\CSProject\DrawSomething\DrawSomething\obj\Release\DrawSomething.csproj.CoreCompileInputs.cache
+D:\Work\CSProject\DrawSomething\DrawSomething\obj\Release\DrawSomething.exe
+D:\Work\CSProject\DrawSomething\DrawSomething\obj\Release\DrawSomething.pdb
+D:\Work\CSProject\DrawSomething\DrawSomething\obj\Release\DrawSomething.csprojAssemblyReference.cache
